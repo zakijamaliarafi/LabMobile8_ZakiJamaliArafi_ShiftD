@@ -1,0 +1,10 @@
+.content-wrapper {
+display: flex;
+flex-direction: column;
+height: 100%;
+}
+
+.logout-button {
+margin-top: auto; /* Pushes the logout button to the bottom */
+margin-bottom: 10px;
+}
